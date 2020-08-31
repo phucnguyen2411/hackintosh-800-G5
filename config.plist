@@ -342,11 +342,15 @@
 				</data>
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
+				<key>device-id</key>
+				<data>
+				kj4AAA==
+				</data>
 				<key>device_type</key>
 				<string>VGA compatible controller</string>
-				<key>framebuffer-camellia</key>
+				<key>disable-external-gpu</key>
 				<data>
-				AAAAAA==
+				AQAAAA==
 				</data>
 				<key>framebuffer-con0-busid</key>
 				<data>
@@ -418,7 +422,7 @@
 				</data>
 				<key>framebuffer-con2-type</key>
 				<data>
-				AAgAAA==
+				AAQAAA==
 				</data>
 				<key>framebuffer-con3-busid</key>
 				<data>
@@ -448,29 +452,9 @@
 				<data>
 				AAAAAA==
 				</data>
-				<key>framebuffer-flags</key>
-				<data>
-				AhOAAA==
-				</data>
-				<key>framebuffer-memorycount</key>
-				<data>
-				AwAAAA==
-				</data>
-				<key>framebuffer-mobile</key>
-				<data>
-				AAAAAA==
-				</data>
 				<key>framebuffer-patch-enable</key>
 				<data>
 				AQAAAA==
-				</data>
-				<key>framebuffer-pipecount</key>
-				<data>
-				AwAAAA==
-				</data>
-				<key>framebuffer-portcount</key>
-				<data>
-				AwAAAA==
 				</data>
 				<key>framebuffer-stolenmem</key>
 				<data>
@@ -478,10 +462,10 @@
 				</data>
 				<key>framebuffer-unifiedmem</key>
 				<data>
-				AAAAYA==
+				AAAAgA==
 				</data>
 				<key>model</key>
-				<string>Intel UHD Graphics 630 (Desktop)</string>
+				<string>Intel UHD Graphics 630</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1203,7 +1187,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C07947500QXKXPGFB</string>
 			<key>ROM</key>
 			<data>
 			R5dovq3U
@@ -1215,7 +1199,7 @@
 			<key>SystemSerialNumber</key>
 			<string></string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>47F0085F-2443-42A2-808E-5724E2D6879A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
