@@ -106,14 +106,14 @@
 					AwAAAA==
 					</data>
 					<key>Codec</key>
-					<string>(null) by phucng by phucng by phucng by phucng by phucng by phucng by phucng by phucng by phucng by phucng by phucng</string>
+					<string>(null) by phucng by phucng by phucng by phucng by phucng by phucng by phucng by phucng</string>
 					<key>CodecID</key>
 					<integer>351359128</integer>
 					<key>ConfigData</key>
 					<data>
-					AcccIAHHHREBxx4BAccfAQH3HFEB9x0BAfce
-					HwH3H5EBlxxAAZcdEAGXHiEBlx8BAaccMAGn
-					HRABpx6LAacfAQHXHBEB1x0RAdceoQHXHwE=
+					AaccEAGnHRABpx6LAacfAQHHHCABxx0RAcce
+					AQHHHwEB1xwxAdcdEQHXHosB1x8BAZccQAGX
+					HRABlx4hAZcfAQH3HFEB9x0BAfceHwH3H5E=
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
@@ -121,7 +121,7 @@
 					<integer>23</integer>
 					<key>WakeConfigData</key>
 					<data>
-					AccMAAH3DAABlwwAAacMAAHXDAA=
+					AacMAAHHDAAB1wwAAZcMAAH3DAA=
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
