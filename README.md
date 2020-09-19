@@ -13,6 +13,8 @@ audio: Realtek CX20632 - 2 Headphone port + 1 LineIn Mic - Layout 20 fixing by p
 
 network: Intel® I219LM Gigabit Network Connection LOM
 
-256GB 860 Pro + 1 TB HDD
+wireless: AX200 - full support with the limitation about speed - handoff is working
+
+storage: 256GB 860 Pro + 1 TB HDD
 
 BIOS Config: Just turn off Secure Boot.
