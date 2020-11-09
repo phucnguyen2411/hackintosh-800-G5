@@ -18,3 +18,4 @@ wireless: AX200 - full support with the limitation about speed - handoff is work
 storage: 256GB 860 Pro + 1 TB HDD
 
 BIOS Config: Just turn off Secure Boot.
+
