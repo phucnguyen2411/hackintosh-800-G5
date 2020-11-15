@@ -11,7 +11,7 @@ Hardware configuration with the following specs: HP EliteDesk 800 G5 Mini
 
 Intel Core i7 8700 @ 3.20GHz Coffe Lake
 
-32GB - 2x16GB DDR4 2600Mhz
+32GB - 2x16GB DDR4 2666Mhz
 
 GPU: Integrated: Intel® HD Graphics 630 Add buffer 2048Mb with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
 
