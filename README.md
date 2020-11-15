@@ -13,7 +13,7 @@ Intel Core i7 8700 @ 3.20GHz Coffe Lake
 
 32GB - 2x16GB DDR4 2666Mhz
 
-GPU: Integrated: Intel® HD Graphics 630 Add buffer 2048Mb with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
+GPU: Integrated: Intel® HD Graphics 630 with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
 
 audio: Realtek CX20632 - 2 Headphone port + 1 LineIn Mic - Layout 20 fixing by phucnguyen2411
 
