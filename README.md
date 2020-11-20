@@ -5,7 +5,7 @@ i'm trying to buy a thunderbolt card for G5. Will trying to test eGPU.
 
 Bench Geekbench 5: Single Core: 1157 Multi-Core Score: 5922 https://browser.geekbench.com/v5/cpu/3464351
 
-Cinebench R23: ~6600
+Cinebench R23: ~6714
 
 Hardware configuration with the following specs: HP EliteDesk 800 G5 Mini
 
