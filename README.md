@@ -1,17 +1,19 @@
 Hardware Specs
 Product Number: HP EliteDesk 800 G5 Mini - Best machine when do comparation with Macmini8,1
 
+i'm trying to buy a thunderbolt card for G5. Will trying to test eGPU.
+
 Bench Geekbench 5: Single Core: 1157 Multi-Core Score: 5922 https://browser.geekbench.com/v5/cpu/3464351
 
-Cinebench R23: ~6600
+Cinebench R23: ~6714
 
 Hardware configuration with the following specs: HP EliteDesk 800 G5 Mini
 
 Intel Core i7 8700 @ 3.20GHz Coffe Lake
 
-32GB - 2x16GB DDR4 2600Mhz
+32GB - 2x16GB DDR4 2666Mhz
 
-GPU: Integrated: Intel® HD Graphics 630 Add buffer 2048Mb with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
+GPU: Integrated: Intel® HD Graphics 630 with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
 
 audio: Realtek CX20632 - 2 Headphone port + 1 LineIn Mic - Layout 20 fixing by phucnguyen2411
 
