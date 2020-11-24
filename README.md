@@ -16,12 +16,15 @@ Intel Core i7 8700 @ 3.20GHz Coffe Lake
 32GB - 2x16GB DDR4 2666Mhz
 
 GPU: Integrated: Intel® HD Graphics 630 with (2) DisplayPorts (1) HDMI + HEVC( H265) enable
+<img src="pictures/HEVC.png" width="400">
+<img src="pictures/H264.png" width="400">
 
 audio: Realtek CX20632 - 2 Headphone port + 1 LineIn Mic - Layout 20 fixing by phucnguyen2411
 
 network: Intel® I219LM Gigabit Network Connection LOM
 
 wireless: AX200 - full support with the limitation about speed - handoff is working, airdrop is not working
+<img src="pictures/transfer-file.png" width="400">
 
 storage: 256GB 860 Pro + 1 TB HDD
 
